@@ -25,3 +25,9 @@ This dashboard is a game-changer for hospital management, empowering a data-driv
 ## Repository Contents
 
 - **Dashboard File**: [`Hospital_Wait_List_Dashboard.pbix`](https://app.powerbi.com/links/_7Xy7JlPBK?ctid=a888c29a-2c29-470b-b399-ff992e459cdc&pbi_source=linkShare )
+
+## Dashboard
+![Average](https://github.com/VinithaDayalan/Hospital-Wait-Lis-Dashboard/assets/167068287/0d155c59-e51d-408c-8cb2-0fc8b215c6f6)
+![Median](https://github.com/VinithaDayalan/Hospital-Wait-Lis-Dashboard/assets/167068287/48d922d5-d2be-48db-af01-0d8f4f3c0ae9)
+![Detailed View](https://github.com/VinithaDayalan/Hospital-Wait-Lis-Dashboard/assets/167068287/c234f6a5-2d25-47f3-8c7c-231e5cec82d0)
+
